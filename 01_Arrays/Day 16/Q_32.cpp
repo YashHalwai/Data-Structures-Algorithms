@@ -1,6 +1,6 @@
 // Q. Three way partitioning
 
-// 
+// https://practice.geeksforgeeks.org/problems/three-way-partitioning/1
 
 //{ Driver Code Starts
 //Initial template for C++

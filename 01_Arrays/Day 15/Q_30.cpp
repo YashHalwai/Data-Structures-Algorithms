@@ -26,6 +26,7 @@ int main() {
 	while(t--)
 	{
 		long long n;
+		
 		cin>>n;
 		vector<long long> a;
 		long long x;
