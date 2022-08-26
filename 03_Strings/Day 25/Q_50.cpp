@@ -1,6 +1,6 @@
 // Q. Palindrome String
 
-// 
+// https://practice.geeksforgeeks.org/problems/palindrome-string0817/1
 
 //{ Driver Code Starts
  
